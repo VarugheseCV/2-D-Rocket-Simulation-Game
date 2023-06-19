@@ -1,4 +1,4 @@
-##2-D Rocket Simulation Game
+## 2-D Rocket Simulation Game
 
 The 2-D Rocket Simulation Game is an exciting project developed in C++ that puts you in control of a rocket, challenging you to shoot down enemy spacecraft and avoid harmful projectiles. The game features multiple difficulty levels that ramp up the intensity and introduce new enemy behaviors.
 

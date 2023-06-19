@@ -1,11 +1,12 @@
 ##2-D Rocket Simulation Game
 
 The 2-D Rocket Simulation Game is an exciting project developed in C++ that puts you in control of a rocket, challenging you to shoot down enemy spacecraft and avoid harmful projectiles. The game features multiple difficulty levels that ramp up the intensity and introduce new enemy behaviors.
+
 Game Features
 
-    Objective: Your mission is to destroy combatant spacecraft and dodge incoming projectiles to survive as long as possible.
+Objective: Your mission is to destroy combatant spacecraft and dodge incoming projectiles to survive as long as possible.
 
-    Four Difficulty Levels: The game offers four distinct difficulty levels, each with its own set of challenges and enemy behaviors.
+Four Difficulty Levels: The game offers four distinct difficulty levels, each with its own set of challenges and enemy behaviors.
 
         Level 1: Enemies move linearly, making it relatively easier to anticipate their movement patterns and take them down.
 
@@ -15,7 +16,7 @@ Game Features
 
         Level 4: Enemies fire projectiles that track your rocket, requiring precise maneuvering and quick reflexes to survive.
 
-    SFML Graphics Library: The project is built using the SFML (Simple and Fast Multimedia Library) graphics library in C++, providing essential functionalities for graphics rendering, user input handling, and sound effects.
+SFML Graphics Library: The project is built using the SFML (Simple and Fast Multimedia Library) graphics library in C++, providing essential functionalities for graphics rendering, user input handling, and sound effects.
 
 Installation
 
@@ -39,6 +40,3 @@ Controls
 
     Escape key: Pause or exit the game.
 
-Acknowledgments
-
-This project was developed as a demonstration of game development skills using C++ and the SFML library. The foundation provided by the SFML library significantly simplified the process of implementing graphics, handling user input, and incorporating sound effects into the game. Special thanks to the creators and maintainers of the SFML library for their invaluable contribution to the project.
